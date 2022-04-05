@@ -1,0 +1,12 @@
+{
+  "name": "Ferramentasnativas",
+  "displayName": "Ferramentas-nativas",
+  "expo": {
+    "name": "Ferramentas-nativas",
+    "slug": "Ferramentas-nativas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
